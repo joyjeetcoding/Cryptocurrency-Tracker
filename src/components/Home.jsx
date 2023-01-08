@@ -14,7 +14,7 @@ const Home = () => {
                 
                 <p className='text-gray-100 text-2xl mt-3 font-semibold font-writepara'>A cryptocurrency is a digital currency, which is an alternative form of payment created using encryption algorithms. This is a <u>Cryptocurrency Tracker</u> which monitors the current value of different digital currencies and tokens. <br />
                 <br />
-                Made by <u><a href="https://www.linkedin.com/in/joyjeet-mukherjee-48b298206/" target='_blank' rel="noreferrer" className='text-green-400 hover:text-yellow-500'> Joyjeet Mukherjee</a></u>, CSE dept., 2nd year
+                Made by <u><a href="https://github.com/joyjeetcoding/Cryptocurrency-Tracker" target='_blank' rel="noreferrer" className='text-green-400 hover:text-yellow-500'> Joyjeet Mukherjee</a></u>, CSE dept., 2nd year
                 </p>
             </div>
         </div>
